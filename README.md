@@ -1,5 +1,5 @@
 # 愚痴本
-- あなたの愚痴を聞いてくれるたった一人の優しい男 -
+\- あなたの愚痴を聞いてくれるたった一人の優しい男 \-
 
 [http://pepoipod.jp/guchimoto/](http://pepoipod.jp/guchimoto/)
 
@@ -21,6 +21,6 @@
 
 ## staff
 
-制作: @pepoipod
-声: @pepoipod
-モデル: @pepoipod
+制作: [@pepoipod](https://github.com/pepoipod/)    
+声: [@pepoipod](https://github.com/pepoipod/)    
+モデル: [@pepoipod](https://github.com/pepoipod/)    
