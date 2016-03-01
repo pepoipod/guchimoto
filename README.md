@@ -1,7 +1,7 @@
 # 愚痴本
 \- あなたの愚痴を聞いてくれるたった一人の優しい男 \-
 
-[http://pepoipod.jp/guchimoto/](http://pepoipod.jp/guchimoto/)
+[guchimoto.pepoipod.jp](http://guchimoto.pepoipod.jp)
 
 ## What's  愚痴本?
 
