@@ -1,0 +1,92 @@
+@font-face {
+	font-family: "NotoSansCJKjp-Regular";
+	src: url("../fonts/NotoSansCJKjp-Regular.woff"), url("../fonts/NotoSansCJKjp-Regular.eot");
+}
+
+html, body {
+	font-family: "NotoSansCJKjp-Regular", sans-serif;
+	font-size: 14px;
+}
+
+
+/* .container */
+
+
+.container {
+	width: 800px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+
+/* #g-header */
+
+
+#g-header {
+	margin-top: 20px;
+}
+
+#g-header h1 {
+	font-size: 80px;
+}
+
+#g-header .sub-title {
+	margin-top: 15px;
+	font-size: 20px;
+}
+
+
+/* main */
+
+
+main {
+	padding-top: 20px;
+}
+
+main .hidden {
+	display: none;
+}
+
+main .main-visual img {
+	width: 700px;
+}
+
+main .guchi-form {
+	margin-top: 20px;
+}
+
+main .guchi-form textarea {
+	width: 600px;
+	height: 100px;
+	font-size: 20px;
+}
+
+main .guchi-form input[type=submit] {
+	background:none;
+	border:1px solid #ccc;
+	border-radius:5px;
+	margin-top: 20px;
+	padding: 10px 50px;
+	font-size: 25px;
+	cursor: pointer;
+}
+
+main .response {
+	margin-top: 20px;
+}
+
+main .response p {
+	font-size: 38px;
+}
+
+main .response .share-btns {
+	margin-top: 40px;
+}
+
+
+/* g-footer */
+
+
+#g-footer {
+	margin: 30px 0 5px;
+}
